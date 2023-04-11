@@ -12,14 +12,14 @@ const config = {
   },
   social: {
     linkedin: 'sutheekan-ratanawatkul',
-    twitter: 'sutheekan',
+    // twitter: 'sutheekan',
     //mastodon: 'arifszn@mastodon.social',
     facebook: '',
     instagram: 'peace.sutheekan',
     dribbble: '',
     behance: '',
-    medium: 'sutheekan',
-    dev: 'sutheekan',
+    // medium: 'sutheekan',
+    // dev: 'sutheekan',
     stackoverflow: '', // format: userid/username
     skype: '',
     telegram: '',
@@ -48,6 +48,11 @@ const config = {
     'Jenkins',
     'Antd',
     'Tailwind',
+    'Webhook',
+    'Git',
+    'SAP',
+    'Google Cloud',
+    'Google Analytics',
   ],
   experiences: [
     {
@@ -178,16 +183,24 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Project : Project Rent books website',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'This project doing website on any platform can enable to using it from using bootstrap and angular helping on HTML file concept of this project to be understand software engineering process and development of website on phpmyadmin services',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
     {
-      title: 'Project Name',
+      title:
+        'System Analyst Project : Medical Radiation of Maharat Nakhon Ratchasima Hospital',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'On this project : That could be idea of helped on Maharat Nakhon Ratchasima Hospital Medical Radiation From creating any data from manual to be automatic or on computers that helps employees on Clinic of Medical Radiation. Easiest to access data from Cloud Server. ',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+    {
+      title: 'Project : Smart house control',
+      description:
+        'This project used of technology of internet of thing connect any sensor that on platforms ardunio to control and alert to sent out report on screen first and then we were prepare of Line API code for using group Line respond alert for example if voltage of sensor of gas detector is high it will sent message to Line group but we don’t finished coding.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
