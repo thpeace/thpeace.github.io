@@ -186,14 +186,14 @@ const config = {
       title: 'Project : Project Rent books website',
       description:
         'This project doing website on any platform can enable to using it from using bootstrap and angular helping on HTML file concept of this project to be understand software engineering process and development of website on phpmyadmin services',
-      imageUrl: 'src/assets/kmutnb-logo.jpg',
+      imageUrl: 'https://github.com/thpeace/thpeace.github.io/blob/main/src/assets/kmutnb-logo.jpg',
       link: 'https://utacgroup.com',
     },
     {
       title: 'Project : Project Rent books website',
       description:
         'This project doing website on any platform can enable to using it from using bootstrap and angular helping on HTML file concept of this project to be understand software engineering process and development of website on phpmyadmin services',
-      imageUrl: 'src/assets/kmutnb-logo.jpg',
+      imageUrl: 'https://github.com/thpeace/thpeace.github.io/blob/main/src/assets/kmutnb-logo.jpg',
       link: 'https://kmutnb.ac.th',
     },
     {
@@ -201,7 +201,7 @@ const config = {
         'System Analyst Project : Medical Radiation of Maharat Nakhon Ratchasima Hospital',
       description:
         'On this project : That could be idea of helped on Maharat Nakhon Ratchasima Hospital Medical Radiation From creating any data from manual to be automatic or on computers that helps employees on Clinic of Medical Radiation. Easiest to access data from Cloud Server. ',
-      imageUrl: 'src/assets/kmutnb-logo.jpg',
+      imageUrl: 'https://github.com/thpeace/thpeace.github.io/blob/main/src/assets/kmutnb-logo.jpg',
       link: 'https://kmutnb.ac.th',
     },
     {
