@@ -29,7 +29,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/thpeace/thpeace.github.io/blob/main/public/Sutheekan%20Ratanawatkul%20resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Java',
