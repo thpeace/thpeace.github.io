@@ -29,7 +29,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://github.com/thpeace/thpeace.github.io/blob/1e45a197587b35353502edc73a876123442b65c1/public/Sutheekan%20Ratanawatkul%20resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/thpeace/thpeace.github.io/blob/1e45a197587b35353502edc73a876123442b65c1/public/Resume%20-%20Sutheekan%20Ratanawatkul.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Java',
